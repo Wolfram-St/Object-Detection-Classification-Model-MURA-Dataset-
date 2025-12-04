@@ -12,7 +12,7 @@ The project utilizes the **MURA Dataset**, one of the largest public radiographi
 
 * **Task**: Binary Classification (Normal vs. Abnormal)
 * **Body Parts Covered**: Elbow, Finger, Forearm, Hand, Humerus, Shoulder, Wrist.
-* **Dataset Link**: [Stanford MURA Competition]((https://www.kaggle.com/datasets/cjinny/mura-v11))
+* **Dataset Link**: [link]([https://www.kaggle.com/datasets/cjinny/mura-v11])
 
 ## 🚀 Key Features
 * **Robust Classification**: A CNN-based architecture designed to handle the variability in X-ray imaging.
