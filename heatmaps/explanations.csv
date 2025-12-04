@@ -1,0 +1,6 @@
+basename,label,pred_score,heatmap_path,overlay_path,explanation
+image2,Abnormal,0.7216,heatmaps\image2_heatmap.png,heatmaps\image2_overlay.png,"The model predicted a score of 0.72. Activation is focused in the central region."
+image3,Abnormal,0.8101,heatmaps\image3_heatmap.png,heatmaps\image3_overlay.png,"The model predicted a score of 0.81. Activation is focused in the upper-center area."
+image4,Normal,0.4601,heatmaps\image4_heatmap.png,heatmaps\image4_overlay.png,"The model predicted a score of 0.46. Activation is focused in the central region."
+image1,Normal,0.4953,heatmaps\image1_heatmap.png,heatmaps\image1_overlay.png,"The model predicted a score of 0.50. Activation is focused in the lower-center area."
+image2,Abnormal,0.5641,heatmaps\image2_heatmap.png,heatmaps\image2_overlay.png,"The model predicted a score of 0.56. Activation is focused in the lower-center area."
